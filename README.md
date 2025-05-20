@@ -12,7 +12,7 @@ Vector stores are specialized databases designed to store and retrieve high-dime
 
 This approach allows for more nuanced and context-aware information retrieval compared to traditional keyword-based searches.
 
-For a detailed explanation of these loaders, refer to the [**Notes Vector Stores in LangChain.pdf**](https://github.com/Harsh-Jindal-web/Langchain-Text-Splitters/blob/main/Notes%20Text%20Splitters%20in%20LangChain.pdf) available in this repository.
+For a detailed explanation of these loaders, refer to the [**Notes Vector Stores in LangChain.pdf**](https://github.com/Harsh-Jindal-web/Langchain-Vector-Store/blob/main/Notes%20Vector%20Stores%20in%20LangChain.pdf) available in this repository.
 
 Additionally, you can watch the following video for a comprehensive walkthrough:  
 - [LangChain Vector Store Explained](https://www.youtube.com/watch?v=hP52Pxlqy1g)
